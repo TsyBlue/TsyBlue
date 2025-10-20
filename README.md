@@ -35,10 +35,10 @@
 ### Currently Working :
 
 #### Digital Speedometer  
-ESP32-based digital speedometer using a 3.5" TFT (ILI9488) for 2-stroke engines.  
+- ESP32-based digital speedometer using a 3.5" TFT (ILI9488) for 2-stroke engines.  
 
 #### Fuel Injection Conversion  
-Researching EFI conversion for Yamaha Mio engines.
+- Researching EFI conversion for Yamaha Mio engines.
 
 ---
 
