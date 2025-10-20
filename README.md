@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 <p align="center">
   <!-- Languages & Frameworks -->
@@ -32,20 +32,20 @@
 
 ---
 
-### 🚀 What I'm Working On
+### Currently Working :
 
-#### ⚙️ Digital Speedometer  
+#### Digital Speedometer  
 ESP32-based digital speedometer using a 3.5" TFT (ILI9488) for 2-stroke engines.  
 
-#### 🧪 Fuel Injection Conversion  
+#### Fuel Injection Conversion  
 Researching EFI conversion for Yamaha Mio engines.
 
 ---
 
-### 🌱 Future Plans
+### Future Plans
 
-- 🌐 Personal website with portfolio  
-- 🎮 First game project  
+- Personal website with portfolio  
+- First game project  
 
 ---
 
